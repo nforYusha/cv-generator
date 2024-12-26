@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(56, 143, 102);
+}
+
+.intro {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    margin-left: 20;
+    color: bisque;
+}
+
+.intro1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20;
+    margin-left: 20;
+    margin-top: 70;
+    color: bisque;
+}
+
+.para {
+
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.clr-btn {
+    border: 2px solid #421042;
+    background-color: bisque;
+    color: rgb(91, 146, 218);
+    margin-left: 20px;
+    padding: 10px 5px;
+}
+
+.button:hover .stars {
+    display: block;
+    filter:drop-shadow(0 0 10px 
+    #fffdef);
+}
+
+.transparent-text-box {
+    background-color: rgba(0, 0, 0, 0); /* Adjust transparency as needed */
+    padding: 20px;
+    border-radius: 5px;
+    color: white; /* Ensure text color is visible against the background */
+  }
